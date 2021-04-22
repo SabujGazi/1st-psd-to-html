@@ -1,0 +1,286 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	padding-top: 50px;
+}
+
+
+/* global css */
+*{
+	box-sizing: border-box;
+}
+
+.margin-bot-70{
+	margin-bottom: 70px;
+}
+
+.magin-top-50{
+	margin-top: 50px;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.pad-90{
+	padding-top: 90px;
+}
+
+.pad-bot-90{
+	padding-bottom: 90px;
+}
+
+.pad-70{
+	padding-top: 30px;
+}
+.pad-bot-30{
+	padding-bottom: 30px;
+}
+
+.header-wraper{
+	overflow: auto;
+}
+
+
+.container{
+	width: 1140px;
+	border: ;
+	margin: 0px auto;
+
+}
+
+/* logo style start hare */
+
+.logo{
+	float: left;
+	width: 200px;
+}
+
+.logo img{
+	max-width: 100%;
+	
+	display: block;
+}
+
+
+
+
+/* logo style end hare */
+
+/* nav style start hare */
+
+.nav{
+	float: right;
+	width: 700px;
+}
+/* nav style end hare */
+
+/* nav menu style start here */
+
+.nav-bar{
+	list-style: none;
+	
+
+}
+
+.nav-bar li{
+	float: left;
+	font-size: 14pt;
+	font-family: Myriad Pro;
+	margin-left: 80px;
+	text-transform: uppercase;
+
+
+}
+
+.nav-bar li a{
+	text-decoration: none;
+	color: #A1A1A1;
+}
+
+/* nav menu style end here */
+
+/* banner section style start hare */
+
+.banner{
+	padding-top: 70px;
+	padding-bottom: 50px;
+}
+.banner img{
+	width: 100%;
+	
+}
+
+
+/* banner section style start hare */
+
+/* photodairy style start hare */
+
+.tag , .comment{
+	font-family: Myriad Pro;
+	font-size: 14pt;
+	color: #BCB6A8;
+	text-transform: uppercase;
+	text-decoration: none;
+
+}
+
+
+/* main taitle style start hare */
+.main-taitle{
+	font-size: 30pt;
+	font-family: Myriad Pro;
+	color: #6B6B6B;
+	padding-top: 30px;
+	padding-bottom: 40px;
+
+}
+/* main taitle styele end hare */
+
+/* text style start hare */
+.text{
+	font-size: 14pt;
+	font-family: Myriad Pro;
+	color:  #6B6B6B;
+	line-height: 1.5;
+	padding-bottom: 70px;
+	text-align: justify;
+
+
+
+}
+
+/* text style end hare */
+
+/* photo section style start hare */
+.col{
+	width: 47%;
+}
+
+.row{
+	overflow: auto;
+}
+
+.col img{
+	width: 100%;
+}
+
+.taitle{
+	font-size: 25px;
+}
+
+/* useing float */
+.col-left{
+	float: left;
+}
+
+.col-right{
+	float: right;
+}
+
+/* photo section style end hare */
+
+
+/* newsletter style start hare */
+
+
+.newsletter-background{
+	background-color: #F0F0F0;
+}
+
+form{
+	width: 500px;
+	margin: 0px auto;
+}
+
+.form-control{
+	width: 100%;
+	border: none;
+	height: 50px;
+	border-bottom: 1px solid #000000;
+	background-color: transparent;
+	font-size: 14pt;
+
+}
+
+.input-group{
+	position: relative;
+}
+
+.paper-plane{
+	position: absolute;
+	top: 50%;
+	right: 0px;
+	color: #868685;
+	font-size: 25px;
+}
+
+
+/* news latter style end hare */
+
+
+/* load more style start hare */
+
+
+.button{
+
+}
+
+
+.button a{
+
+	text-decoration: none;
+	padding: 20px;
+	font-size: 20pt;
+	border: 1px solid black;
+}
+
+/* load more button style end hare */
+
+.footer-bckground{
+	background-color: #F0F0F0;
+	
+}
+
+
+footer{
+	border: ;
+	overflow: auto;
+}
+/* main right & left float useing start*/
+.left-part{
+	float: left;
+	margin-left: 70px;
+	
+}
+
+.right-part{
+	float: right;
+	margin-right: 50px;
+	
+}
+
+/*footer-menu float useing start */
+
+.footer-menu li{
+	float: left;
+	margin-left: 30px;
+	list-style: none;
+}
+
+
+/*footer-menu float useing end */
+
+li , a{
+	text-decoration: none;
+	color: #101010;
+	
+
+
+}
+
+
+
